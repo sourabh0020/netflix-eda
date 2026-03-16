@@ -112,11 +112,6 @@ pip install -r requirements.txt
 jupyter notebook notebooks/Netflix_Content_Analysis.ipynb
 ```
 
-Or run the Python script directly:
-```bash
-python src/analysis.py
-```
-
 ---
 
 ## 📂 Dataset
