@@ -1,0 +1,28 @@
+# Dataset (too large / not to be tracked)
+data/
+*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Output files
+Netflix_clean_file.csv
