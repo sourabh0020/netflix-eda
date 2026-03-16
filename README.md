@@ -67,13 +67,13 @@ netflix-eda/
 ## 🖼️ Sample Visualizations
 
 ### Movies vs TV Shows
-![Movies vs TV Shows](plots/movies_vs_shows.png)
+![Movies vs TV Shows](https://github.com/sourabh0020/netflix-eda/blob/main/Movies%20Vs%20TV%20Shows.png)
 
 ### Top 10 Countries
-![Top Countries](plots/top_countries.png)
+![Top Countries](https://github.com/sourabh0020/netflix-eda/blob/main/Top%2010%20country%20by%20titles.png)
 
 ### Genre Heatmap
-![Genre Heatmap](plots/genre_heatmap.png)
+![Genre Heatmap](https://github.com/sourabh0020/netflix-eda/blob/main/Genre%20vs%20Content%20type%20Heatmap.png)
 
 ---
 
