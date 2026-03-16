@@ -94,7 +94,7 @@ netflix-eda/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/netflix-eda.git
+git clone https://github.com/sourabh0020/netflix-eda.git
 cd netflix-eda
 ```
 
@@ -130,7 +130,7 @@ python src/analysis.py
 ## 👤 Author
 
 **Sourabh Yadav**  
-[GitHub](https://github.com/YOUR_USERNAME) • [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+[GitHub](https://github.com/sourabh0020) • [LinkedIn](https://www.linkedin.com/in/sourabhyadav96)
 
 ---
 
